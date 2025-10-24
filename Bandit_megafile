@@ -1,4 +1,4 @@
-ssh bandit3@bandit.labs.overthewire.org -p 2220
+ssh bandit5@bandit.labs.overthewire.org -p 2220
 
 0. naloga
 pass: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
@@ -10,4 +10,10 @@ pass: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 pass: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 3. naloga
+pass: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+4. naloga
+pass: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+5.naloga
 pass: 
